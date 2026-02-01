@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Police Officer
 - [x] The Shopkeeper
-- [ ] The Baker
+- [x] The Baker
 
 ## Weapons
 - [ ] Antique Compass
