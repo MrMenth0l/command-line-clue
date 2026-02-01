@@ -2,13 +2,13 @@
 
 ## Suspects
 - [ ] The Police Officer
-- [ ] The Shopkeeper
+- [x] The Shopkeeper
 - [ ] The Baker
 
 ## Weapons
 - [ ] Antique Compass
 - [ ] Iron Poker
-- [ ] Heavy Book
+- [x] Heavy Book
 
 ## Notes
 *Use this space to record your findings and deductions...*
