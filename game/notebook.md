@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ ] Antique Compass
-- [ ] Iron Poker
+- [x] Iron Poker
 - [x] Heavy Book
 
 ## Notes
